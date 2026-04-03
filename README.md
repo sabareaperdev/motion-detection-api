@@ -23,3 +23,6 @@ python FINAL.py
 
 3. Open:
 http://127.0.0.1:8000/logs
+
+## Demo
+Press "c" to stop the camera.
